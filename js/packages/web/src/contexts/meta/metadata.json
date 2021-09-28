@@ -1,0 +1,814 @@
+{"themd":{
+	"metadata":[
+    {
+        "pubkey": "F14FMNXU3vNGw1W7hyCUUMwBzksbyra3kGCKNAa13Jdj",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX",
+            "data": {
+                "name": "Art Is Love, Love Is Art!",
+                "symbol": "",
+                "uri": "https://arweave.net/CDNJoU5vTV6tciUw9j8L_EM7J5ohm3REOCy8d7NkosE",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM",
+            "masterEdition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM"
+        }
+    },
+    {
+        "pubkey": "H9siVY2sP7tqr1xTSWdbypK4gx4cRtnYGTbYtM2YTRqh",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH",
+            "data": {
+                "name": "Unlimited Impossible",
+                "symbol": "",
+                "uri": "https://arweave.net/aTVPaAg02CQFDhifYYcs-YI63ZKKyQBPisTa1dFoPfY",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5",
+            "masterEdition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5"
+        }
+    },
+    {
+        "pubkey": "nXvEWEfs13yV1E6dQ1vK6U7ptkuD2su5wbHFZWNK7ys",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3",
+            "data": {
+                "name": "Wonder Woman Wins Nobel Prize",
+                "symbol": "",
+                "uri": "https://arweave.net/_gFfuvtpt4KfmyqjnBI4RUJmfx11vl_NUq7PT5rvOcU",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5",
+            "masterEdition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5"
+        }
+    },
+    {
+        "pubkey": "23De8eXLcyp2fQrKESaKaPnqc81HiZ45NsFhkJ1LF14w",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ",
+            "data": {
+                "name": "Do Everything With Love",
+                "symbol": "",
+                "uri": "https://arweave.net/EeZVUTA4raH_lpPAM5ENOjaAsqDy08NO5VRp47yfl_E",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX",
+            "masterEdition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX"
+        }
+    },
+    {
+        "pubkey": "kBuZFqN5xmKpeSuc6DWPhLHcC4EnyAzttxDP7fkBDz5",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z",
+            "data": {
+                "name": "Destroy the Patriarchy",
+                "symbol": "",
+                "uri": "https://arweave.net/O3BFnmQrdiIVxKrKBwk_-J-5Aci6A1RBbXIDhsJzgJo",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ",
+            "masterEdition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ"
+        }
+    },
+    {
+        "pubkey": "BEcxbGiwoYh2qn54U8VZXdqdamLeCXRDTrzzLAbqsr8m",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV",
+            "data": {
+                "name": "Cool School",
+                "symbol": "",
+                "uri": "https://arweave.net/FitxjHNn7JHiBJuNF3FpNX88kWbNNJr6dvvn90lQ8Vg",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him",
+            "masterEdition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him"
+        }
+    },
+    {
+        "pubkey": "4kiXCre89adNLNcQSZRhYd2ak5b2CmzL5X8HVQ5RKMxm",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE",
+            "data": {
+                "name": "Feed The Dream",
+                "symbol": "",
+                "uri": "https://arweave.net/BdtxO_2gib67bnGjr-N74y9mrQJ10KPnrUSXKtrlP44",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ",
+            "masterEdition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ"
+        }
+    },
+    {
+        "pubkey": "39wpdTNtWUdDSGUXUewetuFq9rm78YQJa7SSWBxMfVc8",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX",
+            "data": {
+                "name": "Impossible",
+                "symbol": "",
+                "uri": "https://arweave.net/qS6xiLVYFjYaRT8O-9oqtOS7VdTRIvJio9ynMz78ic8",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf",
+            "masterEdition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf"
+        }
+    }
+],"metadataByMint":{
+    "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX": {
+        "pubkey": "F14FMNXU3vNGw1W7hyCUUMwBzksbyra3kGCKNAa13Jdj",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX",
+            "data": {
+                "name": "Art Is Love, Love Is Art!",
+                "symbol": "",
+                "uri": "https://arweave.net/CDNJoU5vTV6tciUw9j8L_EM7J5ohm3REOCy8d7NkosE",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM",
+            "masterEdition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM"
+        }
+    },
+    "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH": {
+        "pubkey": "H9siVY2sP7tqr1xTSWdbypK4gx4cRtnYGTbYtM2YTRqh",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH",
+            "data": {
+                "name": "Unlimited Impossible",
+                "symbol": "",
+                "uri": "https://arweave.net/aTVPaAg02CQFDhifYYcs-YI63ZKKyQBPisTa1dFoPfY",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5",
+            "masterEdition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5"
+        }
+    },
+    "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3": {
+        "pubkey": "nXvEWEfs13yV1E6dQ1vK6U7ptkuD2su5wbHFZWNK7ys",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3",
+            "data": {
+                "name": "Wonder Woman Wins Nobel Prize",
+                "symbol": "",
+                "uri": "https://arweave.net/_gFfuvtpt4KfmyqjnBI4RUJmfx11vl_NUq7PT5rvOcU",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5",
+            "masterEdition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5"
+        }
+    },
+    "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ": {
+        "pubkey": "23De8eXLcyp2fQrKESaKaPnqc81HiZ45NsFhkJ1LF14w",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ",
+            "data": {
+                "name": "Do Everything With Love",
+                "symbol": "",
+                "uri": "https://arweave.net/EeZVUTA4raH_lpPAM5ENOjaAsqDy08NO5VRp47yfl_E",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX",
+            "masterEdition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX"
+        }
+    },
+    "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z": {
+        "pubkey": "kBuZFqN5xmKpeSuc6DWPhLHcC4EnyAzttxDP7fkBDz5",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z",
+            "data": {
+                "name": "Destroy the Patriarchy",
+                "symbol": "",
+                "uri": "https://arweave.net/O3BFnmQrdiIVxKrKBwk_-J-5Aci6A1RBbXIDhsJzgJo",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ",
+            "masterEdition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ"
+        }
+    },
+    "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV": {
+        "pubkey": "BEcxbGiwoYh2qn54U8VZXdqdamLeCXRDTrzzLAbqsr8m",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV",
+            "data": {
+                "name": "Cool School",
+                "symbol": "",
+                "uri": "https://arweave.net/FitxjHNn7JHiBJuNF3FpNX88kWbNNJr6dvvn90lQ8Vg",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him",
+            "masterEdition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him"
+        }
+    },
+    "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE": {
+        "pubkey": "4kiXCre89adNLNcQSZRhYd2ak5b2CmzL5X8HVQ5RKMxm",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE",
+            "data": {
+                "name": "Feed The Dream",
+                "symbol": "",
+                "uri": "https://arweave.net/BdtxO_2gib67bnGjr-N74y9mrQJ10KPnrUSXKtrlP44",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ",
+            "masterEdition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ"
+        }
+    },
+    "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX": {
+        "pubkey": "39wpdTNtWUdDSGUXUewetuFq9rm78YQJa7SSWBxMfVc8",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX",
+            "data": {
+                "name": "Impossible",
+                "symbol": "",
+                "uri": "https://arweave.net/qS6xiLVYFjYaRT8O-9oqtOS7VdTRIvJio9ynMz78ic8",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf",
+            "masterEdition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf"
+        }
+    }
+}
+
+, "masterEditions":{},
+"masterEditionsByPrintingMint":{},
+"masterEditionsByOneTimeAuthMint":{},
+"metadataByMasterEdition":{
+    "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM": {
+        "pubkey": "F14FMNXU3vNGw1W7hyCUUMwBzksbyra3kGCKNAa13Jdj",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX",
+            "data": {
+                "name": "Art Is Love, Love Is Art!",
+                "symbol": "",
+                "uri": "https://arweave.net/CDNJoU5vTV6tciUw9j8L_EM7J5ohm3REOCy8d7NkosE",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM",
+            "masterEdition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM"
+        }
+    },
+    "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5": {
+        "pubkey": "H9siVY2sP7tqr1xTSWdbypK4gx4cRtnYGTbYtM2YTRqh",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH",
+            "data": {
+                "name": "Unlimited Impossible",
+                "symbol": "",
+                "uri": "https://arweave.net/aTVPaAg02CQFDhifYYcs-YI63ZKKyQBPisTa1dFoPfY",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5",
+            "masterEdition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5"
+        }
+    },
+    "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5": {
+        "pubkey": "nXvEWEfs13yV1E6dQ1vK6U7ptkuD2su5wbHFZWNK7ys",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3",
+            "data": {
+                "name": "Wonder Woman Wins Nobel Prize",
+                "symbol": "",
+                "uri": "https://arweave.net/_gFfuvtpt4KfmyqjnBI4RUJmfx11vl_NUq7PT5rvOcU",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5",
+            "masterEdition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5"
+        }
+    },
+    "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX": {
+        "pubkey": "23De8eXLcyp2fQrKESaKaPnqc81HiZ45NsFhkJ1LF14w",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ",
+            "data": {
+                "name": "Do Everything With Love",
+                "symbol": "",
+                "uri": "https://arweave.net/EeZVUTA4raH_lpPAM5ENOjaAsqDy08NO5VRp47yfl_E",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX",
+            "masterEdition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX"
+        }
+    },
+    "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ": {
+        "pubkey": "kBuZFqN5xmKpeSuc6DWPhLHcC4EnyAzttxDP7fkBDz5",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z",
+            "data": {
+                "name": "Destroy the Patriarchy",
+                "symbol": "",
+                "uri": "https://arweave.net/O3BFnmQrdiIVxKrKBwk_-J-5Aci6A1RBbXIDhsJzgJo",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ",
+            "masterEdition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ"
+        }
+    },
+    "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him": {
+        "pubkey": "BEcxbGiwoYh2qn54U8VZXdqdamLeCXRDTrzzLAbqsr8m",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV",
+            "data": {
+                "name": "Cool School",
+                "symbol": "",
+                "uri": "https://arweave.net/FitxjHNn7JHiBJuNF3FpNX88kWbNNJr6dvvn90lQ8Vg",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him",
+            "masterEdition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him"
+        }
+    },
+    "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ": {
+        "pubkey": "4kiXCre89adNLNcQSZRhYd2ak5b2CmzL5X8HVQ5RKMxm",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE",
+            "data": {
+                "name": "Feed The Dream",
+                "symbol": "",
+                "uri": "https://arweave.net/BdtxO_2gib67bnGjr-N74y9mrQJ10KPnrUSXKtrlP44",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ",
+            "masterEdition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ"
+        }
+    },
+    "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf": {
+        "pubkey": "39wpdTNtWUdDSGUXUewetuFq9rm78YQJa7SSWBxMfVc8",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX",
+            "data": {
+                "name": "Impossible",
+                "symbol": "",
+                "uri": "https://arweave.net/qS6xiLVYFjYaRT8O-9oqtOS7VdTRIvJio9ynMz78ic8",
+                "sellerFeeBasisPoints": 100,
+                "creators": [
+                    {
+                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+                        "verified": 1,
+                        "share": 100
+                    }
+                ]
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf",
+            "masterEdition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf"
+        }
+    }
+},
+"editions":{},
+"auctionManagersByAuction":{
+    "6uZm3jbqGYKmXW6sPbKT86ZrGuFYixiNtWejSFbgMM4w": {
+        "pubkey": "CZwN17kggHMmFLcwFtCsyHoXeg1Pt9vdowLwk6anUnrm",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "6uZm3jbqGYKmXW6sPbKT86ZrGuFYixiNtWejSFbgMM4w",
+            "vault": "FfcfzoixRqLgBxeZC2HCrV6tLaiZC7dqFoEXCLkcYhRL",
+            "acceptPayment": "EQpdh3NKLhaENGkdwZfooDwnJ5qxNMdRigJUABoTbpt7",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "07",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 1
+            }
+        }
+    }
+},
+"bidRedemptions":{},
+"auctions":{},"store":{
+    "pubkey": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+    "account": {
+        "data": [],
+        "executable": false,
+        "lamports": 2491680,
+        "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+    },
+    "info": {
+        "key": 3,
+        "public": 0,
+        "auctionProgram": "auctxRXPeJoc4817jDhf4HbjnhEcr1cCXenosMhK5R8",
+        "tokenVaultProgram": "vau1zxA2LbssAUEF7Gpw91zMM1LvXrvpzJtmZ58rPsn",
+        "tokenMetadataProgram": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
+        "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+    }
+},"whitelistedCreatorsByCreator":{
+    "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya": {
+        "pubkey": "B6wyqKPbGChz1G9r4VMHgXtrjvH2cfxdGhDpWkRvTHmS",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 1197120,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 4,
+            "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "activated": 1
+        }
+    }
+}
+}}
