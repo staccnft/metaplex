@@ -89,7 +89,7 @@ export const loadAccounts = async (connection: Connection, all: boolean) => {
     masterEditions: themd.masterEditions,
     masterEditionsByPrintingMint: {},
     masterEditionsByOneTimeAuthMint: {},
-    metadataByMasterEdition: themd.metadata,
+    metadataByMasterEdition: themd.metadataByMasterEdition,
     editions: themd.editions,
     auctionManagersByAuction: themd.auctionManagersByAuction,
     bidRedemptions: {},

@@ -32,41 +32,27 @@ interface BlockhashAndFeeCalculator {
 export type ENV =
   | 'mainnet-beta'
   | 'mainnet-beta (Solana)'
-  | 'mainnet-beta (Serum)'
-  | 'testnet'
-  | 'devnet'
-  | 'localnet'
-  | 'lending';
+  | 'mainnet-beta (Serum)';
 
 export const ENDPOINTS = [
   {
     name: 'mainnet-beta' as ENV,
-    endpoint: 'https://api.metaplex.solana.com/',
+    endpoint: 'https://solana--mainnet.datahub.figment.io/apikey/fbb4f00427594e23bfb341c060e6348a/',
     ChainId: ChainId.MainnetBeta,
   },
   {
     name: 'mainnet-beta (Solana)' as ENV,
-    endpoint: 'https://api.mainnet-beta.solana.com',
+    endpoint: 'https://fragrant-bitter-sound.solana-mainnet.quiknode.pro/8a6cee2a1b6d44f3ad57a2fbd3af1be61defc820/',
     ChainId: ChainId.MainnetBeta,
   },
   {
     name: 'mainnet-beta (Serum)' as ENV,
-    endpoint: 'https://solana-api.projectserum.com/',
+    endpoint: 'https://api.runnode.com/?apikey=bKZD4VaHNWZY7IfdPZTb/',
     ChainId: ChainId.MainnetBeta,
-  },
-  {
-    name: 'testnet' as ENV,
-    endpoint: clusterApiUrl('testnet'),
-    ChainId: ChainId.Testnet,
-  },
-  {
-    name: 'devnet' as ENV,
-    endpoint: clusterApiUrl('devnet'),
-    ChainId: ChainId.Devnet,
-  },
+  }
 ];
 
-const DEFAULT = ENDPOINTS[0].endpoint;
+const DEFAULT = ENDPOINTS[Math.floor(Math.random()*2)].endpoint;
 
 interface ConnectionConfig {
   connection: Connection;

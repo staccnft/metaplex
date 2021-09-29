@@ -12,19 +12,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "J8FW3b49kypvHAScvCHKaQ9EDhqHwi3RWfs6EDXdTsaA",
-            "data": {
-                "name": "Define: Equity",
-                "symbol": "",
-                "uri": "https://arweave.net/2o0ASDYPPfSSQ_49AYok-e2m-ODrpS2T1dANR3jWhAI",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "2xAqx66B8rzsPZ9S4bEV9SkiYgaHZFvAhYumQBZorWkv",
@@ -43,19 +31,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX",
-            "data": {
-                "name": "Impossible",
-                "symbol": "",
-                "uri": "https://arweave.net/qS6xiLVYFjYaRT8O-9oqtOS7VdTRIvJio9ynMz78ic8",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf",
@@ -74,19 +50,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX",
-            "data": {
-                "name": "Art Is Love, Love Is Art!",
-                "symbol": "",
-                "uri": "https://arweave.net/CDNJoU5vTV6tciUw9j8L_EM7J5ohm3REOCy8d7NkosE",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM",
@@ -105,19 +69,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH",
-            "data": {
-                "name": "Unlimited Impossible",
-                "symbol": "",
-                "uri": "https://arweave.net/aTVPaAg02CQFDhifYYcs-YI63ZKKyQBPisTa1dFoPfY",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5",
@@ -136,19 +88,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "EL3LtKoG2yjvGe2v9FJjvp4DXGGfebVgYWP5aZtVr23P",
-            "data": {
-                "name": "Who Needs Unicorns?",
-                "symbol": "",
-                "uri": "https://arweave.net/un6ucxw2kCOxO4vDNQXMqMZ0Pkb7nghaGaKtBiE0bvY",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "A2tZKrnuW8eLEBqB7qGSsAGMsCN8936p6EYnuEWXQGLv",
@@ -167,19 +107,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3",
-            "data": {
-                "name": "Wonder Woman Wins Nobel Prize",
-                "symbol": "",
-                "uri": "https://arweave.net/_gFfuvtpt4KfmyqjnBI4RUJmfx11vl_NUq7PT5rvOcU",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5",
@@ -198,19 +126,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "73kG4Soc4vAX8TMVeaVZ9jzrpz1ojizFABzLyw8PvBwz",
-            "data": {
-                "name": "Land Ahoy!",
-                "symbol": "",
-                "uri": "https://arweave.net/ZHMuURaSiZryr04wx5-7C-uMhduoJTOWRIAAbCHAs_Y",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "Hje5SMeRiq4shMFEmyqzqsEoEYZTxdVTWiuYu9riA911",
@@ -229,19 +145,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "7FRciPBh5dBZWp78zsfrhAKtJdkfm6zHxTP9N46AB7f9",
-            "data": {
-                "name": "Love Comes In All Colors",
-                "symbol": "",
-                "uri": "https://arweave.net/DhF3b-HYxtchHWkD3z7OZuoBWrJiIC5hpAuzpmdDbdw",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "237XsHiKR4qt8eQJaYJiyRDKjSWNzPpNteEHau6KUBPc",
@@ -260,19 +164,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z",
-            "data": {
-                "name": "Destroy the Patriarchy",
-                "symbol": "",
-                "uri": "https://arweave.net/O3BFnmQrdiIVxKrKBwk_-J-5Aci6A1RBbXIDhsJzgJo",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ",
@@ -291,19 +183,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "B9Tmx3ks9px5tQXMCJvNXbp6NbRT18Un2MhZp9hrNBh6",
-            "data": {
-                "name": "Creativitiy is Magic",
-                "symbol": "",
-                "uri": "https://arweave.net/y5c487_NtOldbKk3zm9n7Xwt50Bt_gDXIlQY0AaMx_A",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "G6oQsDz8kpGjjNtyHNFeMMCYpsZJ55wCPprjerACYGAb",
@@ -322,19 +202,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV",
-            "data": {
-                "name": "Cool School",
-                "symbol": "",
-                "uri": "https://arweave.net/FitxjHNn7JHiBJuNF3FpNX88kWbNNJr6dvvn90lQ8Vg",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him",
@@ -353,23 +221,30 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ",
-            "data": {
-                "name": "Do Everything With Love",
-                "symbol": "",
-                "uri": "https://arweave.net/EeZVUTA4raH_lpPAM5ENOjaAsqDy08NO5VRp47yfl_E",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX",
             "masterEdition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX"
+        }
+    },
+    {
+        "pubkey": "2LATLqGEw99rgckDsvsFsozw1ciNEf3A2vQyYQrMTVgA",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CAXWGgDURPszhdhiYxYu4f2xSpNajP7N3UStAEhErJj",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM",
+            "masterEdition": "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM"
         }
     },
     {
@@ -384,19 +259,7 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE",
-            "data": {
-                "name": "Feed The Dream",
-                "symbol": "",
-                "uri": "https://arweave.net/BdtxO_2gib67bnGjr-N74y9mrQJ10KPnrUSXKtrlP44",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ",
@@ -415,27 +278,15 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "QoW41BcqicLBWAi9WmboLdtNr5vJTDnatCwg4PB87Lz",
-            "data": {
-                "name": "Little Reminders of Kindness",
-                "symbol": "",
-                "uri": "https://arweave.net/qVBo7FXCixYqtLzb4VnKWRoomqCIW4DhshXvsRFfHH8",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G",
             "masterEdition": "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G"
         }
     }
-],"metadataByMint":[
-    {
+],"metadataByMint":{
+    "J8FW3b49kypvHAScvCHKaQ9EDhqHwi3RWfs6EDXdTsaA": {
         "pubkey": "3i3WT8Y8ERNdBJex8k91WSzXvvG6p4hW4jgDXt5qzq9n",
         "account": {
             "data": [],
@@ -447,26 +298,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "J8FW3b49kypvHAScvCHKaQ9EDhqHwi3RWfs6EDXdTsaA",
-            "data": {
-                "name": "Define: Equity",
-                "symbol": "",
-                "uri": "https://arweave.net/2o0ASDYPPfSSQ_49AYok-e2m-ODrpS2T1dANR3jWhAI",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "2xAqx66B8rzsPZ9S4bEV9SkiYgaHZFvAhYumQBZorWkv",
             "masterEdition": "2xAqx66B8rzsPZ9S4bEV9SkiYgaHZFvAhYumQBZorWkv"
         }
     },
-    {
+    "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX": {
         "pubkey": "39wpdTNtWUdDSGUXUewetuFq9rm78YQJa7SSWBxMfVc8",
         "account": {
             "data": [],
@@ -478,26 +317,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX",
-            "data": {
-                "name": "Impossible",
-                "symbol": "",
-                "uri": "https://arweave.net/qS6xiLVYFjYaRT8O-9oqtOS7VdTRIvJio9ynMz78ic8",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf",
             "masterEdition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf"
         }
     },
-    {
+    "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX": {
         "pubkey": "F14FMNXU3vNGw1W7hyCUUMwBzksbyra3kGCKNAa13Jdj",
         "account": {
             "data": [],
@@ -509,26 +336,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX",
-            "data": {
-                "name": "Art Is Love, Love Is Art!",
-                "symbol": "",
-                "uri": "https://arweave.net/CDNJoU5vTV6tciUw9j8L_EM7J5ohm3REOCy8d7NkosE",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM",
             "masterEdition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM"
         }
     },
-    {
+    "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH": {
         "pubkey": "H9siVY2sP7tqr1xTSWdbypK4gx4cRtnYGTbYtM2YTRqh",
         "account": {
             "data": [],
@@ -540,26 +355,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH",
-            "data": {
-                "name": "Unlimited Impossible",
-                "symbol": "",
-                "uri": "https://arweave.net/aTVPaAg02CQFDhifYYcs-YI63ZKKyQBPisTa1dFoPfY",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5",
             "masterEdition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5"
         }
     },
-    {
+    "EL3LtKoG2yjvGe2v9FJjvp4DXGGfebVgYWP5aZtVr23P": {
         "pubkey": "5ceZEheTPBRoG6wzEgxQm8NC6RD3zV5L5AYCyPA1p6A9",
         "account": {
             "data": [],
@@ -571,26 +374,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "EL3LtKoG2yjvGe2v9FJjvp4DXGGfebVgYWP5aZtVr23P",
-            "data": {
-                "name": "Who Needs Unicorns?",
-                "symbol": "",
-                "uri": "https://arweave.net/un6ucxw2kCOxO4vDNQXMqMZ0Pkb7nghaGaKtBiE0bvY",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "A2tZKrnuW8eLEBqB7qGSsAGMsCN8936p6EYnuEWXQGLv",
             "masterEdition": "A2tZKrnuW8eLEBqB7qGSsAGMsCN8936p6EYnuEWXQGLv"
         }
     },
-    {
+    "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3": {
         "pubkey": "nXvEWEfs13yV1E6dQ1vK6U7ptkuD2su5wbHFZWNK7ys",
         "account": {
             "data": [],
@@ -602,26 +393,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3",
-            "data": {
-                "name": "Wonder Woman Wins Nobel Prize",
-                "symbol": "",
-                "uri": "https://arweave.net/_gFfuvtpt4KfmyqjnBI4RUJmfx11vl_NUq7PT5rvOcU",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5",
             "masterEdition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5"
         }
     },
-    {
+    "73kG4Soc4vAX8TMVeaVZ9jzrpz1ojizFABzLyw8PvBwz": {
         "pubkey": "6WLbxCFrjTbskxaJB8BZMNEmf3jxxVprH3WpHG7sFKtN",
         "account": {
             "data": [],
@@ -633,26 +412,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "73kG4Soc4vAX8TMVeaVZ9jzrpz1ojizFABzLyw8PvBwz",
-            "data": {
-                "name": "Land Ahoy!",
-                "symbol": "",
-                "uri": "https://arweave.net/ZHMuURaSiZryr04wx5-7C-uMhduoJTOWRIAAbCHAs_Y",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "Hje5SMeRiq4shMFEmyqzqsEoEYZTxdVTWiuYu9riA911",
             "masterEdition": "Hje5SMeRiq4shMFEmyqzqsEoEYZTxdVTWiuYu9riA911"
         }
     },
-    {
+    "7FRciPBh5dBZWp78zsfrhAKtJdkfm6zHxTP9N46AB7f9": {
         "pubkey": "HW4wzz5sH6wme6EUGm3oCMv3EsbL38SJrbJoGbro4GUo",
         "account": {
             "data": [],
@@ -664,26 +431,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "7FRciPBh5dBZWp78zsfrhAKtJdkfm6zHxTP9N46AB7f9",
-            "data": {
-                "name": "Love Comes In All Colors",
-                "symbol": "",
-                "uri": "https://arweave.net/DhF3b-HYxtchHWkD3z7OZuoBWrJiIC5hpAuzpmdDbdw",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "237XsHiKR4qt8eQJaYJiyRDKjSWNzPpNteEHau6KUBPc",
             "masterEdition": "237XsHiKR4qt8eQJaYJiyRDKjSWNzPpNteEHau6KUBPc"
         }
     },
-    {
+    "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z": {
         "pubkey": "kBuZFqN5xmKpeSuc6DWPhLHcC4EnyAzttxDP7fkBDz5",
         "account": {
             "data": [],
@@ -695,26 +450,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z",
-            "data": {
-                "name": "Destroy the Patriarchy",
-                "symbol": "",
-                "uri": "https://arweave.net/O3BFnmQrdiIVxKrKBwk_-J-5Aci6A1RBbXIDhsJzgJo",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ",
             "masterEdition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ"
         }
     },
-    {
+    "B9Tmx3ks9px5tQXMCJvNXbp6NbRT18Un2MhZp9hrNBh6": {
         "pubkey": "A3PfvHBn52wZeBtiv6jNxj1rSKu1VwCFL6YqCYZxfMd2",
         "account": {
             "data": [],
@@ -726,26 +469,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "B9Tmx3ks9px5tQXMCJvNXbp6NbRT18Un2MhZp9hrNBh6",
-            "data": {
-                "name": "Creativitiy is Magic",
-                "symbol": "",
-                "uri": "https://arweave.net/y5c487_NtOldbKk3zm9n7Xwt50Bt_gDXIlQY0AaMx_A",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "G6oQsDz8kpGjjNtyHNFeMMCYpsZJ55wCPprjerACYGAb",
             "masterEdition": "G6oQsDz8kpGjjNtyHNFeMMCYpsZJ55wCPprjerACYGAb"
         }
     },
-    {
+    "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV": {
         "pubkey": "BEcxbGiwoYh2qn54U8VZXdqdamLeCXRDTrzzLAbqsr8m",
         "account": {
             "data": [],
@@ -757,26 +488,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV",
-            "data": {
-                "name": "Cool School",
-                "symbol": "",
-                "uri": "https://arweave.net/FitxjHNn7JHiBJuNF3FpNX88kWbNNJr6dvvn90lQ8Vg",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him",
             "masterEdition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him"
         }
     },
-    {
+    "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ": {
         "pubkey": "23De8eXLcyp2fQrKESaKaPnqc81HiZ45NsFhkJ1LF14w",
         "account": {
             "data": [],
@@ -788,26 +507,33 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ",
-            "data": {
-                "name": "Do Everything With Love",
-                "symbol": "",
-                "uri": "https://arweave.net/EeZVUTA4raH_lpPAM5ENOjaAsqDy08NO5VRp47yfl_E",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX",
             "masterEdition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX"
         }
     },
-    {
+    "CAXWGgDURPszhdhiYxYu4f2xSpNajP7N3UStAEhErJj": {
+        "pubkey": "2LATLqGEw99rgckDsvsFsozw1ciNEf3A2vQyYQrMTVgA",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CAXWGgDURPszhdhiYxYu4f2xSpNajP7N3UStAEhErJj",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM",
+            "masterEdition": "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM"
+        }
+    },
+    "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE": {
         "pubkey": "4kiXCre89adNLNcQSZRhYd2ak5b2CmzL5X8HVQ5RKMxm",
         "account": {
             "data": [],
@@ -819,26 +545,14 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE",
-            "data": {
-                "name": "Feed The Dream",
-                "symbol": "",
-                "uri": "https://arweave.net/BdtxO_2gib67bnGjr-N74y9mrQJ10KPnrUSXKtrlP44",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ",
             "masterEdition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ"
         }
     },
-    {
+    "QoW41BcqicLBWAi9WmboLdtNr5vJTDnatCwg4PB87Lz": {
         "pubkey": "UaAb1JBywrwbaWd7mqVSkSv1NMpJKKFeMZEvW6jRB8v",
         "account": {
             "data": [],
@@ -850,26 +564,302 @@
             "key": 4,
             "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
             "mint": "QoW41BcqicLBWAi9WmboLdtNr5vJTDnatCwg4PB87Lz",
-            "data": {
-                "name": "Little Reminders of Kindness",
-                "symbol": "",
-                "uri": "https://arweave.net/qVBo7FXCixYqtLzb4VnKWRoomqCIW4DhshXvsRFfHH8",
-                "sellerFeeBasisPoints": 100,
-                "creators": [
-                    {
-                        "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-                        "verified": 1,
-                        "share": 100
-                    }
-                ]
-            },
+            "data": [],
             "primarySaleHappened": 0,
             "isMutable": 1,
             "edition": "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G",
             "masterEdition": "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G"
         }
     }
-],
+},
+"metadataByMasterEdition":{
+    "2xAqx66B8rzsPZ9S4bEV9SkiYgaHZFvAhYumQBZorWkv": {
+        "pubkey": "3i3WT8Y8ERNdBJex8k91WSzXvvG6p4hW4jgDXt5qzq9n",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "J8FW3b49kypvHAScvCHKaQ9EDhqHwi3RWfs6EDXdTsaA",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "2xAqx66B8rzsPZ9S4bEV9SkiYgaHZFvAhYumQBZorWkv",
+            "masterEdition": "2xAqx66B8rzsPZ9S4bEV9SkiYgaHZFvAhYumQBZorWkv"
+        }
+    },
+    "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf": {
+        "pubkey": "39wpdTNtWUdDSGUXUewetuFq9rm78YQJa7SSWBxMfVc8",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8WzpdAHq96SXBgPAU2vzyWcpie1XZRssAARj6zyaKWKX",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf",
+            "masterEdition": "D93cPjyw8Ur7x9CEVNj3GVZBD854VywxaHrHDkMgzFaf"
+        }
+    },
+    "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM": {
+        "pubkey": "F14FMNXU3vNGw1W7hyCUUMwBzksbyra3kGCKNAa13Jdj",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "HDdASCjF7DNBjXB8462ccsem9bC8VGsNJK7eYt79PAqX",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM",
+            "masterEdition": "55sN6kWFBpP52jyWAMV43otjEzm4pM9sdZ4K7jwPYfzM"
+        }
+    },
+    "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5": {
+        "pubkey": "H9siVY2sP7tqr1xTSWdbypK4gx4cRtnYGTbYtM2YTRqh",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "J51D3zCnVsNiAwMStVQSwE66Aab1KdPYJhupEsxG3YXH",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5",
+            "masterEdition": "88bcjCpeSEMjWCoLnkB8uhdtg5A83vVxSMfPaHJMbib5"
+        }
+    },
+    "A2tZKrnuW8eLEBqB7qGSsAGMsCN8936p6EYnuEWXQGLv": {
+        "pubkey": "5ceZEheTPBRoG6wzEgxQm8NC6RD3zV5L5AYCyPA1p6A9",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "EL3LtKoG2yjvGe2v9FJjvp4DXGGfebVgYWP5aZtVr23P",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "A2tZKrnuW8eLEBqB7qGSsAGMsCN8936p6EYnuEWXQGLv",
+            "masterEdition": "A2tZKrnuW8eLEBqB7qGSsAGMsCN8936p6EYnuEWXQGLv"
+        }
+    },
+    "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5": {
+        "pubkey": "nXvEWEfs13yV1E6dQ1vK6U7ptkuD2su5wbHFZWNK7ys",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "BisW3wjkcBsLxVyLkEHt4xiFioiDENXV3C9WHJ32kRj3",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5",
+            "masterEdition": "BgNRo67M8KqpZH5auVWMvphzN9zVkCXRWUpKcAGZ8Yt5"
+        }
+    },
+    "Hje5SMeRiq4shMFEmyqzqsEoEYZTxdVTWiuYu9riA911": {
+        "pubkey": "6WLbxCFrjTbskxaJB8BZMNEmf3jxxVprH3WpHG7sFKtN",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "73kG4Soc4vAX8TMVeaVZ9jzrpz1ojizFABzLyw8PvBwz",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "Hje5SMeRiq4shMFEmyqzqsEoEYZTxdVTWiuYu9riA911",
+            "masterEdition": "Hje5SMeRiq4shMFEmyqzqsEoEYZTxdVTWiuYu9riA911"
+        }
+    },
+    "237XsHiKR4qt8eQJaYJiyRDKjSWNzPpNteEHau6KUBPc": {
+        "pubkey": "HW4wzz5sH6wme6EUGm3oCMv3EsbL38SJrbJoGbro4GUo",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "7FRciPBh5dBZWp78zsfrhAKtJdkfm6zHxTP9N46AB7f9",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "237XsHiKR4qt8eQJaYJiyRDKjSWNzPpNteEHau6KUBPc",
+            "masterEdition": "237XsHiKR4qt8eQJaYJiyRDKjSWNzPpNteEHau6KUBPc"
+        }
+    },
+    "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ": {
+        "pubkey": "kBuZFqN5xmKpeSuc6DWPhLHcC4EnyAzttxDP7fkBDz5",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "GZzq75uE7YfLjupwj1gbSUVR4JJH2YQXw9tLZMm5iC6Z",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ",
+            "masterEdition": "HwHsaXkah7XW5XeSLndpKDbGbq9qj5Nzprp79eZn2sMZ"
+        }
+    },
+    "G6oQsDz8kpGjjNtyHNFeMMCYpsZJ55wCPprjerACYGAb": {
+        "pubkey": "A3PfvHBn52wZeBtiv6jNxj1rSKu1VwCFL6YqCYZxfMd2",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "B9Tmx3ks9px5tQXMCJvNXbp6NbRT18Un2MhZp9hrNBh6",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "G6oQsDz8kpGjjNtyHNFeMMCYpsZJ55wCPprjerACYGAb",
+            "masterEdition": "G6oQsDz8kpGjjNtyHNFeMMCYpsZJ55wCPprjerACYGAb"
+        }
+    },
+    "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him": {
+        "pubkey": "BEcxbGiwoYh2qn54U8VZXdqdamLeCXRDTrzzLAbqsr8m",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "FYELRJkvBD2P6xjTxFomfueBdcraxSMTCpfYfGPDnfVV",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him",
+            "masterEdition": "DGGJYF4ToAnDaCk2zAW6DvNNm9WfoiuYqSBREz3p7him"
+        }
+    },
+    "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX": {
+        "pubkey": "23De8eXLcyp2fQrKESaKaPnqc81HiZ45NsFhkJ1LF14w",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CsNgwL3utjLsp41bEef3o7kze6BhqxN721K7hN4fr8NJ",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX",
+            "masterEdition": "5LcN2Lo72h18WQcuZF1tTa3k9p4TmfHGsk327dE5ZqmX"
+        }
+    },
+    "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM": {
+        "pubkey": "2LATLqGEw99rgckDsvsFsozw1ciNEf3A2vQyYQrMTVgA",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "CAXWGgDURPszhdhiYxYu4f2xSpNajP7N3UStAEhErJj",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM",
+            "masterEdition": "Gmw4i6jRhZXm5dULPE647j4EFaFmoeEDefwoQ6c8ErUM"
+        }
+    },
+    "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ": {
+        "pubkey": "4kiXCre89adNLNcQSZRhYd2ak5b2CmzL5X8HVQ5RKMxm",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "8ADNdmthFzkWXxJtBLCsGBuqtZMdZ3R5pQLyqQfr5FLE",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ",
+            "masterEdition": "8xJn3Jo1VqRCGL2NdbqFskXdzTpLFTHwfpMnsXaAqPkZ"
+        }
+    },
+    "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G": {
+        "pubkey": "UaAb1JBywrwbaWd7mqVSkSv1NMpJKKFeMZEvW6jRB8v",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 5616720,
+            "owner": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s"
+        },
+        "info": {
+            "key": 4,
+            "updateAuthority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "mint": "QoW41BcqicLBWAi9WmboLdtNr5vJTDnatCwg4PB87Lz",
+            "data": [],
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "edition": "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G",
+            "masterEdition": "ECyH46dG3i2khfZCAFJS5ShtXQc54DZkyadgnS3Wi83G"
+        }
+    }
+},
+"masterEditions":{},
 "editions":{},
 "auctionManagersByAuction":{
     "6uZm3jbqGYKmXW6sPbKT86ZrGuFYixiNtWejSFbgMM4w": {
@@ -892,7 +882,152 @@
                 "safetyConfigItemsValidated": "07",
                 "bidsPushedToAcceptPayment": "00",
                 "hasParticipation": 1
-            }
+            },
+            "data": []
+        }
+    },
+    "oXNeHbrCDgjKRSoawrUtF22VjfchiHngNdeZLrXEPvT": {
+        "pubkey": "13XKCZxVX9fFP68A3hHo1NuMmgAaEMSRaS9zPPr9RtdS",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "oXNeHbrCDgjKRSoawrUtF22VjfchiHngNdeZLrXEPvT",
+            "vault": "D6dR4LiGfa7oK5BiubzJ5PCZDYArNtjUPFcHVjNnUF2Z",
+            "acceptPayment": "3CX2MJ6VZd71yc3AcpHNghKM7bBeKoGuTPySJ24Js2Ub",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "01",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 0
+            },
+            "data": []
+        }
+    },
+    "Exkwxd6XwQsNufmFxR2fUxePFjPb6VPnL4Y9oB5XK2ng": {
+        "pubkey": "B5tpkDehVyMSGYMoNbabeHzFdpKT8PZyYS7Kanqk7LNy",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "Exkwxd6XwQsNufmFxR2fUxePFjPb6VPnL4Y9oB5XK2ng",
+            "vault": "6gbm6Brdq3awyzPhUh2xU5TZ8y6fJzuMSg4mhoP2Nprn",
+            "acceptPayment": "DM2jph2o2y1h9md2N8K8pApUBz1FEcfsxdFHy4z2Wn7k",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "01",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 0
+            },
+            "data": []
+        }
+    },
+    "62NSrg9rptGvB4ZFCD5iVNMDJd3WDX2wHXpaNMGDCSaa": {
+        "pubkey": "4eiu9JWhHFExrox5AJu4trQ1LXZF4AnecMiFGdgm8Qgk",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "62NSrg9rptGvB4ZFCD5iVNMDJd3WDX2wHXpaNMGDCSaa",
+            "vault": "J9Sz9diADs3117Z4vzPFRTZbkbc1AKCyoazdT7syRy54",
+            "acceptPayment": "Ci8P71c1icu2TftwBSmVrm1MMtJqWey31A9ZWMzjK6vk",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "01",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 0
+            },
+            "data": []
+        }
+    },
+    "FYJ9TGY5ruKLP54Gac5yxmk4dz7BtsCZKizXWxLyXFRa": {
+        "pubkey": "HPXap3JQCCCnnAYWK4Ukf2CSNgdHZWTj2hiwYYg8334J",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "FYJ9TGY5ruKLP54Gac5yxmk4dz7BtsCZKizXWxLyXFRa",
+            "vault": "6qZGunHBUoroEvpqQs3CU1mg23N2K8xVjvojce8Sc7kS",
+            "acceptPayment": "9zSt39eJmdWE3NtpcvPWnWZmoeZAdNjJWpmDcRYqepEm",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "01",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 0
+            },
+            "data": []
+        }
+    },
+    "Hj1Upc8sB99rN9NFKwf2kB6a5AMdFyiiLjdb93VycRjg": {
+        "pubkey": "3iT4xGMJZ44bXy4nR9JRBxjLkvQCmcM3qztbyquakwg7",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "Hj1Upc8sB99rN9NFKwf2kB6a5AMdFyiiLjdb93VycRjg",
+            "vault": "Co9KwpvZEjRsoK24wwkd1pFxLQHp5btrTVGXk9ko7o3Z",
+            "acceptPayment": "DnYsgt8mgChivGJGBA7gC49f7Bb4DvKwEnbRtGsrQHrB",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "01",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 0
+            },
+            "data": []
+        }
+    },
+    "48WjFcmjdCcs3SRy4pzjPa9KNmTYzkLCbYF3ykse2s42": {
+        "pubkey": "jRrTWFiLFAVxqyNRT9QeKZzA2ZLUGeGRLvcmP2wya5a",
+        "account": {
+            "data": [],
+            "executable": false,
+            "lamports": 3473040,
+            "owner": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+        },
+        "info": {
+            "key": 10,
+            "store": "8YhwvVgAZucbeDe7UH5rm2o2ywoauBP8PXjhkn9TQDYV",
+            "authority": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
+            "auction": "48WjFcmjdCcs3SRy4pzjPa9KNmTYzkLCbYF3ykse2s42",
+            "vault": "bMb76WCST19d7BrRthABgqgSC4WjWgrjebXVno4MPBd",
+            "acceptPayment": "3zdhFjkPfGt1mVcEe6Xrk2o5w3qbBXkk7gmvV8uAdjXT",
+            "state": {
+                "status": 2,
+                "safetyConfigItemsValidated": "01",
+                "bidsPushedToAcceptPayment": "00",
+                "hasParticipation": 0
+            },
+            "data": []
         }
     }
 },
@@ -911,7 +1046,8 @@
         "auctionProgram": "auctxRXPeJoc4817jDhf4HbjnhEcr1cCXenosMhK5R8",
         "tokenVaultProgram": "vau1zxA2LbssAUEF7Gpw91zMM1LvXrvpzJtmZ58rPsn",
         "tokenMetadataProgram": "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
-        "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+        "tokenProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "data": []
     }
 },"whitelistedCreatorsByCreator":{
     "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya": {
@@ -925,7 +1061,8 @@
         "info": {
             "key": 4,
             "address": "GTTQH7jUfoZYMMQZroxHyztJipwDzgtEHY3yBbnNtJya",
-            "activated": 1
+            "activated": 1,
+            "data": []
         }
     }
 }
